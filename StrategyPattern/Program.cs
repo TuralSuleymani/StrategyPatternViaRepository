@@ -1,5 +1,4 @@
 ﻿using StrategyPatternViaRepository.App_Data;
-using StrategyPatternViaRepository.Providers.Spesific;
 using System;
 using System.Collections;
 using System.Collections.Generic;
