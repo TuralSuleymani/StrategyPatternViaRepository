@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using StrategyPatternViaRepository.Infrastructure.Implementations;
 using StrategyPatternViaRepository.Providers;
+using StrategyPatternViaRepository.Providers.Specific;
+
 namespace StrategyPatternViaRepository
 {
     class Program
