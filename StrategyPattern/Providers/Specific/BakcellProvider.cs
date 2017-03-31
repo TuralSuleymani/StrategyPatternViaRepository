@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrategyPatternViaRepository.Providers.Spesific
+namespace StrategyPatternViaRepository.Providers.Specific
 {
    internal class BakcellProvider : Provider
     {
